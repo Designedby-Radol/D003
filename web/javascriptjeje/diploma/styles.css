@@ -1,0 +1,45 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.diploma {
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 20px;
+  border: 1px solid #d3d3d3;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.diploma-content {
+  padding: 40px;
+}
+
+.diploma-title {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.diploma-subtitle {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.diploma-text {
+  font-size: 16px;
+  text-align: justify;
+}
+
+.diploma-signature {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.signature-img {
+  width: 200px;
+  height: auto;
+}

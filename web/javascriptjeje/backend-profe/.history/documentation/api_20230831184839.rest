@@ -1,0 +1,17 @@
+### enpoint to test api
+GET http://localhost:3001/users/login?username=Striker&email=test@mail.com&password=compaq
+
+### enpoint to test api
+GET http://localhost:3001/products/comprar?id=0,3,4,5,6,78,
+
+###
+POST http://localhost:3001/users/register
+Content-Type: application/json
+{
+    "username": "striker",
+    "email": "test@mail.com",
+    "password": "compaq",
+    "name": "Michael",
+    "lastName": "Cocuy"
+}
+

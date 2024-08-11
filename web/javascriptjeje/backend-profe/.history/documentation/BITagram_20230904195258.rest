@@ -1,0 +1,8 @@
+###
+POST http://localhost:3001/users/addFollower
+Content-Type: application/json
+
+{
+   "id_user_to_follow": "64f1479dc51bf76eabd6d6e2",
+   "id_user_that_follow": "64f666c9f45a486a57245845"
+}
